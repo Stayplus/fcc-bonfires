@@ -18,5 +18,6 @@ My solutions and optimizations to the <a href="http://freecodecamp.com/"> FreeCo
 <footer>
   <p>I hope these are of some use to you all :) </p>
   <p><b>-stayplus</b></p>
+  <p> http://freecodecamp.com/stayplus </p>
 </footer>
 </html>
