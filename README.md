@@ -17,6 +17,6 @@ My solutions and optimizations to the <a href="http://http://freecodecamp.com/">
 
 <footer>
   <p>I hope these are of some use to you all :) </p>
-  <p><b>-Stayplus</b></p>
+  <p><b>-stayplus</b></p>
 </footer>
 </html>
