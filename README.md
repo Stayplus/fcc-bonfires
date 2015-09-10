@@ -7,10 +7,10 @@ My solutions and optimizations to the <a href="http://http://freecodecamp.com/">
 <body>
   <p>The files are split into four directories (Each one corresponding to a different difficulty level):</p>
   <ul>
-    <li>-Basic </li>
-    <li>-Intermediate </li>
-    <li>-Upper Intermediate </li>
-    <li>-Advanced </li>
+    <li>Basic </li>
+    <li>Intermediate </li>
+    <li>Upper Intermediate </li>
+    <li>Advanced </li>
   </ul>
 </body>
 
