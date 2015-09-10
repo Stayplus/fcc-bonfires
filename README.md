@@ -1,7 +1,7 @@
 # fcc-bonfires
 <html>
 <head>
-My solutions and optimizations to the <a href="http://http://freecodecamp.com/"> FreeCodeCamp </a> bonfire algorithmic challenges. I will update the solutions if I come up with more efficient implementations.
+My solutions and optimizations to the <a href="http://freecodecamp.com/"> FreeCodeCamp </a> bonfire algorithmic challenges. I will update the solutions if I come up with more efficient implementations.
 </head>
 
 <body>
