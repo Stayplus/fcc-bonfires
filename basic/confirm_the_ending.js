@@ -1,9 +1,9 @@
-//-------------------------------------------------------
+//--------------------------------------------------------
 //FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
 //Bonfire: Confirm The Ending
 //Author: stayplus
 //Date: Septemeber, 2015
-//-------------------------------------------------------
+//--------------------------------------------------------
 
 function end(str, target) {
 
@@ -34,5 +34,5 @@ function end(str, target) {
 
 }
 
-//Test Cases --------------------------------------------
+//Test Cases ---------------------------------------------
 //debug(end('Bastian', 'n'));

@@ -3,7 +3,7 @@
 //Bonfire: Reverse A String
 //Author: stayplus
 //Date: September, 2015
-//-------------------------------------------------------
+//--------------------------------------------------------
 
 function reverseString(str) {
   var split = str.split(""); 
@@ -12,5 +12,5 @@ function reverseString(str) {
   return revStr; 
 }
 
-//Test Cases --------------------------------------------
+//Test Cases ---------------------------------------------
 //debug(reverseString('hello'));

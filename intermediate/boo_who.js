@@ -1,3 +1,10 @@
+//--------------------------------------------------------
+//FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
+//Bonfire: Boo Who
+//Author: stayplus
+//Date: September, 2015
+//--------------------------------------------------------
+
 function boo(bool) {
 	if (bool === true) {
 		return true;
@@ -12,8 +19,8 @@ function boo(bool) {
 	}
 }
 
-//test cases
-debug(boo(null));
+//Test Cases ---------------------------------------------
+//debug(boo(null));
 // debug(boo(true));
 // debug(boo(false));
 // debug(boo([1,2,3]));

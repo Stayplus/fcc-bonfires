@@ -1,9 +1,9 @@
-//-------------------------------------------------------
+//--------------------------------------------------------
 //FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
 //Bonfire: Title Case A Sentence
 //Author: stayplus
 //Date: September, 2015
-//-------------------------------------------------------
+//--------------------------------------------------------
 
 function titleCase(str) {
   var str = str.split(" ");
@@ -16,4 +16,4 @@ function titleCase(str) {
   return str;
 }
 
-//Test Cases --------------------------------------------
+//Test Cases ---------------------------------------------

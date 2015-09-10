@@ -1,3 +1,10 @@
+//--------------------------------------------------------
+//FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
+//Bonfire: Sum All Primes
+//Author: stayplus
+//Date: September, 2015
+//--------------------------------------------------------
+
 function isPrime(num){
 	for (var i = 2; i <= Math.sqrt(num); i++){
 		if (num % i === 0) {
@@ -17,13 +24,7 @@ function sumPrimes(num) {
   	return sum;
 }
 
-
-
-
-
-//test cases
-debug(sumPrimes(977));
+//Test Cases ---------------------------------------------
+//debug(sumPrimes(977));
 //debug(sumPrimes(17));
 //debug(sumPrimes(977));
-
-debug(Math.sqrt(977));

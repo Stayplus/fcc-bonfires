@@ -1,3 +1,10 @@
+//--------------------------------------------------------
+//FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
+//Bonfire: Diff Two Arrays
+//Author: stayplus
+//Date: September, 2015
+//--------------------------------------------------------
+
 function diff(arr1, arr2) {
   var newArr = [];
   var arr1Length = arr1.length; //debug(arr1Length);
@@ -41,23 +48,23 @@ function diff(arr1, arr2) {
   return newArr;
 }
 
-//test cases
+//Test Cases ---------------------------------------------
 //debug(diff([1, 2, 3, 5], [1, 2, 3, 4, 5]));
 
 // //difference: ['pink wool']
-debug(diff(
-			['diorite',
-			'andesite', 
-			'grass', 
-			'dirt', 
-			'pink wool', 
-			'dead shrub'], 
+// debug(diff(
+// 			['diorite',
+// 			'andesite', 
+// 			'grass', 
+// 			'dirt', 
+// 			'pink wool', 
+// 			'dead shrub'], 
 
-			['diorite', 
-			'andesite', 
-			'grass', 
-			'dirt', 
-			'dead shrub']));
+// 			['diorite', 
+// 			'andesite', 
+// 			'grass', 
+// 			'dirt', 
+// 			'dead shrub']));
 
 // //difference ['diorite', 'pink wool']
 // debug(diff(

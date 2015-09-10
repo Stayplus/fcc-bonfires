@@ -1,9 +1,9 @@
-//-------------------------------------------------------
+//--------------------------------------------------------
 //FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
 //Bonfire: Chunky Monkey
 //Author: stayplus
 //Date: Septemeber, 2015
-//-------------------------------------------------------
+//--------------------------------------------------------
 
 function chunk(arr, size) {
 	var aLength = arr.length; 
@@ -17,5 +17,5 @@ function chunk(arr, size) {
 	return tArray;
 }
 
-//Test Cases --------------------------------------------
+//Test Cases ---------------------------------------------
 //debug(chunk(['a', 'b', 'c', 'd'], 2));

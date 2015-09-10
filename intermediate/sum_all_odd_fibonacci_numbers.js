@@ -1,20 +1,9 @@
-function sumFibs2(num) {
-    var prevNumber = 0;
-    var currNumber = 1;
-    var result = 0;
-    while (currNumber <= num) {
-        if (currNumber % 2 !== 0) {
-            result += currNumber;
-        }
-        var added = currNumber + prevNumber;
-        prevNumber = currNumber;
-        currNumber = added;
-    }
-
-    return result;
-}
-
-
+//--------------------------------------------------------
+//FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
+//Bonfire: Sum All Odd Fibonacci Numbers
+//Author: stayplus
+//Date: September, 2015
+//--------------------------------------------------------
 
 function sumFibs(num){
     var sum = 0
@@ -34,4 +23,5 @@ function sumFibs(num){
     return sum
 }
 
-debug(sumFibs(1000));
+//Test Cases ---------------------------------------------
+//debug(sumFibs(1000));

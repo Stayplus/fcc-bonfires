@@ -1,9 +1,9 @@
-//-------------------------------------------------------
+//--------------------------------------------------------
 //FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
 //Bonfire: Check For Palindromes
 //Author: stayplus
 //Date: September, 2015
-//-------------------------------------------------------
+//--------------------------------------------------------
 
 function palindrome(str) {
   var str = str.replace(/[\W\s]/g, "").toLowerCase();
@@ -31,7 +31,7 @@ function palindrome(str) {
   }
 }
 
-//Test Cases --------------------------------------------
+//Test Cases ---------------------------------------------
 //debug(palindrome("eye"));
 //debug(palindrome("cat"));
 //debug(palindrome("almostomla"));

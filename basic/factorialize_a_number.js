@@ -1,9 +1,9 @@
-//-------------------------------------------------------
+//--------------------------------------------------------
 //FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
 //Bonfire: Factorialize A Number
 //Author: stayplus
 //Date: Septemeber, 2015
-//-------------------------------------------------------
+//--------------------------------------------------------
 
 function factorialize(num) {
   var sum = 1; 
@@ -13,5 +13,5 @@ function factorialize(num) {
   return sum;
 }
 
-//Test Cases --------------------------------------------
+//Test Cases ---------------------------------------------
 //debug(factorialize(5));

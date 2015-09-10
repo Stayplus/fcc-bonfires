@@ -1,3 +1,10 @@
+//--------------------------------------------------------
+//FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
+//Bonfire: Pig Latin
+//Author: stayplus
+//Date: September, 2015
+//--------------------------------------------------------
+
 function translate(str) {
 	var strArray = str.split("")
 	var vowels = ["a", "e", "i", "o", "u"];
@@ -12,8 +19,8 @@ function translate(str) {
 	else {
 		var index = 0;
 		while(vowels.indexOf(strArray[index]) === -1){
-			before = str.substr(0, index+1); //debug(before);
-			after = str.substr(index+1); //debug(after);
+			before = str.substr(0, index+1); 
+			after = str.substr(index+1); 
 			fString = after + before + "ay";
 			index++;
 		} 
@@ -22,24 +29,10 @@ function translate(str) {
 }
 
 
-//test cases
-
+//Test Cases ---------------------------------------------
 //debug(translate("consonant"));
 //debug(translate("california"));
-// debug(translate("paragraphs"));
+//debug(translate("paragraphs"));
 //debug(translate("glove"));
 //debug(translate("algorithm"));
 //debug(translate("eight"));
-
-
-	// else {
-	// 	for (var i = 0; i <= strArray.length; i++){
-	// 		if (vowels.indexOf(strArray[i]) === -1){
-	// 			before = str.substr(0, i+1); //debug(before);
-	// 			after = str.substr(i+1); //debug(after);
-	// 			fString = after + before + "ay";
-	// 			break;
-	// 		}
-
-	// 	}
-	// }

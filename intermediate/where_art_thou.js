@@ -1,5 +1,12 @@
 //Not my solution, still trying to figure it out.
 
+//--------------------------------------------------------
+//FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
+//Bonfire: Check For Palindromes
+//Author: stayplus
+//Date: September, 2015
+//--------------------------------------------------------
+
 function where(collection, source) {
   // "What's in a name? that which we call a rose
   // By any other name would smell as sweet.”
@@ -19,4 +26,6 @@ function where(collection, source) {
     return true;
   });
 }
-where([{ first: 'Romeo', last: 'Montague' }, { first: 'Mercutio', last: null }, { first: 'Tybalt', last: 'Capulet' }], { last: 'Capulet' });
+
+//Test Cases ---------------------------------------------
+//debug(where([{ first: 'Romeo', last: 'Montague' }, { first: 'Mercutio', last: null }, { first: 'Tybalt', last: 'Capulet' }], { last: 'Capulet' }));

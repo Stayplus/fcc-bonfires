@@ -1,3 +1,10 @@
+//--------------------------------------------------------
+//FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
+//Bonfire: Missing Letters
+//Author: stayplus
+//Date: September, 2015
+//--------------------------------------------------------
+
 function fearNotLetter(str) {
 	var fString = "";
 	for (var i = 0; i <= str.length; i++){
@@ -11,6 +18,6 @@ function fearNotLetter(str) {
 	}
 }
 
-
+//Test Cases ---------------------------------------------
 //debug(fearNotLetter('abce'));
 //debug(fearNotLetter('bcd'));

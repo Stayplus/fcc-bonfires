@@ -1,9 +1,9 @@
-//-------------------------------------------------------
+//--------------------------------------------------------
 //FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
 //Bonfire: Falsey Bouncer
 //Author: stayplus
 //Date: September, 2015
-//-------------------------------------------------------
+//--------------------------------------------------------
 
 function bouncer(arr) {
 	var temp = arr;
@@ -26,5 +26,5 @@ function bouncer(arr) {
 	return filteredArr;
 }
 
-//Test Cases --------------------------------------------
+//Test Cases ---------------------------------------------
 //debug(bouncer([7, 'ate', '', false, 9]));

@@ -1,9 +1,9 @@
-//-------------------------------------------------------
+//--------------------------------------------------------
 //FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
 //Bonfire: Truncate A String
 //Author: stayplus
 //Date: September, 2015
-//-------------------------------------------------------
+//--------------------------------------------------------
 
 function truncate(str, num) {
 
@@ -18,5 +18,5 @@ function truncate(str, num) {
 	}
 }
 
-//Test Cases --------------------------------------------
+//Test Cases ---------------------------------------------
 //debug(truncate('A-tisket a-tasket A green and yellow basket', 11));
