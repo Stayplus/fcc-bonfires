@@ -1,3 +1,10 @@
+//-------------------------------------------------------
+//FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
+//Bonfire: Slasher Flick
+//Author: stayplus
+//Date: September, 2015
+//-------------------------------------------------------
+
 function slasher(arr, howMany) {
 	var tArray = [];
 
@@ -13,4 +20,5 @@ function slasher(arr, howMany) {
 	 return arr;
 }
 
-slasher([1, 2, 3], 2);
+//Test Cases --------------------------------------------
+//debug(slasher([1, 2, 3], 2));

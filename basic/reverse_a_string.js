@@ -1,11 +1,16 @@
-// Bonfire: reverse a String
+//-------------------------------------------------------
+//FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
+//Bonfire: Reverse A String
+//Author: stayplus
+//Date: September, 2015
+//-------------------------------------------------------
 
 function reverseString(str) {
-  var split = str.split(""); // Split the string into an array of characters with the delimiter ""
-  var revArray = split.reverse(); // reverse the array
-  var revStr = revArray.join(""); //join the array into a string with the delimiter ""
-  return revStr; // return the reversed string
+  var split = str.split(""); 
+  var revArray = split.reverse(); 
+  var revStr = revArray.join(""); 
+  return revStr; 
 }
 
-//tests
-debug(reverseString('hello'));
+//Test Cases --------------------------------------------
+//debug(reverseString('hello'));

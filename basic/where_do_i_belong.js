@@ -1,3 +1,10 @@
+//-------------------------------------------------------
+//FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
+//Bonfire: Where Do I Belong
+//Author: stayplus
+//Date: September, 2015
+//-------------------------------------------------------
+
 function where(arr, num) {
 	function numeric_ascending(a, b){
 		if (a < b){
@@ -17,7 +24,7 @@ function where(arr, num) {
 	return sorted.indexOf(num);
 }
 
-// test cases
+//Test Cases --------------------------------------------
 //debug(where([40, 60], 50));
 //debug(where([10, 20, 30, 40, 50], 30);
 //debug(where([40, 60], 50);

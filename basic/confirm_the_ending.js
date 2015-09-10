@@ -1,5 +1,11 @@
+//-------------------------------------------------------
+//FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
+//Bonfire: Confirm The Ending
+//Author: stayplus
+//Date: Septemeber, 2015
+//-------------------------------------------------------
+
 function end(str, target) {
-	//two cases
 
 	//case 1 - no spaces; one word
 	if (str.indexOf(" ") >= 0){
@@ -28,4 +34,5 @@ function end(str, target) {
 
 }
 
-end('Bastian', 'n');
+//Test Cases --------------------------------------------
+//debug(end('Bastian', 'n'));

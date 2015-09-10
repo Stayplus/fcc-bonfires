@@ -1,3 +1,10 @@
+//-------------------------------------------------------
+//FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
+//Bonfire: Mutations
+//Author: stayplus
+//Date: September, 2015
+//-------------------------------------------------------
+
 function mutation(arr) {
 	var first = arr[0].toLowerCase(); 
 	var second = arr[1].toLowerCase(); 
@@ -17,4 +24,6 @@ function mutation(arr) {
 	}
 return swtch;
 }
-mutation(['hello', 'hey']);
+
+//Test Cases --------------------------------------------
+//debug(mutation(['hello', 'hey']));

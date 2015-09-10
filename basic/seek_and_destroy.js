@@ -1,3 +1,10 @@
+//-------------------------------------------------------
+//FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
+//Bonfire: Seek And Destroy
+//Author: stayplus
+//Date: September, 2015
+//-------------------------------------------------------
+
 function destroyer(arr) {
 var fArray = [];
 var currentArg;
@@ -22,20 +29,9 @@ var currentArg;
 }
 
 
-//TEST CASES
-//basic: 2 arguments passed to function
+//Test Cases --------------------------------------------
 //debug(destroyer([1, 2, 3, 1, 2, 3], 2, 3));
-//Expected [1,1]
-
-//basic: 2 arguments passed to function
 //debug(destroyer([1, 2, 3, 5, 1, 2, 3], 2, 3));
-//expected: [1,5,1]
-
-//inter: 3 arguments passed to function
-debug(destroyer([3, 5, 1, 2, 2], 2, 3, 5));
-
-//Empty case: Should return emtpy array
+//debug(destroyer([3, 5, 1, 2, 2], 2, 3, 5));
 //debug(destroyer([2, 3, 2, 3], 2, 3));
-
-//inter: Should handle NaN elements
 //debug(destroyer(['tree', 'hamburger', 53], 'tree', 53))

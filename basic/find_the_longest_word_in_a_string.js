@@ -1,3 +1,10 @@
+//-------------------------------------------------------
+//FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
+//Bonfire: Find The Longest Word In A String
+//Author: stayplus
+//Date: September, 2015
+//-------------------------------------------------------
+
 function findLongestWord(str) {
 	var strArray = str.split(" ");
 	var temp = 0;
@@ -9,3 +16,5 @@ function findLongestWord(str) {
 	}
   return temp;
 }
+
+//Test Cases --------------------------------------------

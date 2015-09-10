@@ -1,10 +1,17 @@
+//-------------------------------------------------------
+//FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
+//Bonfire: Factorialize A Number
+//Author: stayplus
+//Date: Septemeber, 2015
+//-------------------------------------------------------
+
 function factorialize(num) {
-  var sum = 1; // create a container variable for the total factorial
-  for (var i = 1; i <= num; i++){ // interate +1 until you reach the number to factorialize
-    sum = sum * i; //set the sum equal to the total factorial * the iteration.
+  var sum = 1; 
+  for (var i = 1; i <= num; i++){ 
+    sum = sum * i; 
   }
   return sum;
 }
 
-//tests
-debug(factorialize(5));
+//Test Cases --------------------------------------------
+//debug(factorialize(5));

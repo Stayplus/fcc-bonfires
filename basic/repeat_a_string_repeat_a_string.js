@@ -1,3 +1,10 @@
+//-------------------------------------------------------
+//FreeCodeCamp Bonfire Challenge - http://freecodecamp.com
+//Bonfire: Repeat A String Repeat A String
+//Author: stayplus
+//Date: September, 2015
+//-------------------------------------------------------
+
 function repeat(str, num) {
 	temp = "";
 	if (num > -1) {
@@ -11,4 +18,6 @@ function repeat(str, num) {
 		return "";
 	}
 }
-repeat('abc', 3);
+
+//Test Cases --------------------------------------------
+//debug(repeat('abc', 3));
