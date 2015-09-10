@@ -1,0 +1,190 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"a"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/JSC.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kamilsarkowicz/Documents/freecodecamp/find_the_longest_word_in_a_string.js",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/finders_keepers.js",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/fibonacci.py",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/sum_all_odd_fibonacci_numbers.js",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/boo_who.js",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/sorted_union.js",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/smallest_common_multiple.js",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/missing_letters.js",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/sum_all_primes.js",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/search_and_replace.js",
+		"/Users/kamilsarkowicz/Documents/freecodecamp/euler_4.js",
+		"/Users/kamilsarkowicz/Documents/freecodecamp/check_for_palindromes.js",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/pig_latin.js",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/roman_numeral_converter.js",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/diff_two_arrays.js",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/sum_all_numbers_in_a_range.js",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/harsh.js",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/index.html",
+		"/Users/kamilsarkowicz/Library/Application Support/Sublime Text 2/Packages/User/confirm_the_ending.js",
+		"/Users/kamilsarkowicz/Library/Application Support/Sublime Text 2/Packages/User/title_case_a_sentence.js",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/jumbotron-narrow.css",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/test.js",
+		"/Users/kamilsarkowicz/Downloads/bootstrap-master/docs/examples/jumbotron-narrow/test.html",
+		"/Users/kamilsarkowicz/Library/Application Support/Sublime Text 2/Packages/User/falsey_bouncer.js",
+		"/Users/kamilsarkowicz/Library/Application Support/Sublime Text 2/Packages/User/find_the_longest_word_in_a_string.js",
+		"/Users/kamilsarkowicz/Documents/freecodecamp/angularJS/test.html",
+		"/Users/kamilsarkowicz/Documents/freecodecamp/angularJS/app.js",
+		"/Users/kamilsarkowicz/Documents/freecodecamp/TEST/test.js",
+		"/Users/kamilsarkowicz/Documents/freecodecamp/TEST/index.html",
+		"/Users/kamilsarkowicz/Documents/freecodecamp/where_do_i_belong.js",
+		"/Users/kamilsarkowicz/Documents/freecodecamp/seek_and_destroy.js",
+		"/Users/kamilsarkowicz/Library/Application Support/Sublime Text 2/Packages/User/where_art_thou.js",
+		"/Users/kamilsarkowicz/Library/Application Support/Sublime Text 2/Packages/User/chunky_monkey.js",
+		"/Users/kamilsarkowicz/Library/Application Support/Sublime Text 2/Packages/User/truncate_a_string.js",
+		"/Users/kamilsarkowicz/Library/Application Support/Sublime Text 2/Packages/User/repeat_a_string_repeat_a_string.js",
+		"/Users/kamilsarkowicz/Library/Application Support/Sublime Text 2/Packages/User/return_largest_number_in_arrays.js",
+		"/Users/kamilsarkowicz/Documents/freecodecamp/factorialize_a_number.js",
+		"/Users/kamilsarkowicz/Documents/freecodecamp/reverse_a_string.js",
+		"/Users/kamilsarkowicz/Library/Application Support/Sublime Text 2/Packages/User/JSC.sublime-build",
+		"/Users/kamilsarkowicz/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-build",
+		"/Applications/World of Warcraft/Interface/AddOns/CCDebuffs/CCDebuffs.lua",
+		"/Applications/World of Warcraft/Interface/AddOns/CCDebuffs/CCDebuffs.toc",
+		"/Users/kamilsarkowicz/Documents/UW_SPRING_2014/CS234/Assignments/A4/A4Q1_SampleTest.py",
+		"/Users/kamilsarkowicz/Documents/UW_SPRING_2014/CS234/Assignments/A4/A4Q1e.py",
+		"/Users/kamilsarkowicz/Documents/UW_SPRING_2014/CS234/Assignments/A4/bkcp.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"b",
+			"]\"/",
+			"\"\";\n",
+			"}\n",
+			"));"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 326.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
