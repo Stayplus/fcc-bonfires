@@ -5,7 +5,7 @@ My solutions and optimizations to the <a href="http://http://freecodecamp.com/">
 </head>
 
 <body>
-<p>The files are split into four directories (Each one corresponding to a different difficulty level):<p>
+  <p>The files are split into four directories (Each one corresponding to a different difficulty level):</p>
   <ul>
     <li>-Basic </li>
     <li>-Intermediate </li>
@@ -16,8 +16,7 @@ My solutions and optimizations to the <a href="http://http://freecodecamp.com/">
 
 
 <footer>
-<p>I hope these are of some use to you all :) <p>
-<p><b>-Stayplus<b><p>
+  <p>I hope these are of some use to you all :) </p>
+  <p><b>-Stayplus</b></p>
 </footer>
-
 </html>
